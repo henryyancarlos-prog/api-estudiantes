@@ -1,0 +1,12 @@
+{
+  "name": "api-estudiantes",
+  "version": "1.0.0",
+  "description": "API REST en memoria para gestionar estudiantes con Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
